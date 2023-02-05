@@ -1,2 +1,5 @@
 this is ameya local repo
 add some data through local repo
+
+add data through remote repo
+hi i am ameya
