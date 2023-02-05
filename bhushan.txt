@@ -1,2 +1,5 @@
 my first remot repo file
 created through github
+
+i add something through local repo
+hi, i am bhushan
