@@ -1,0 +1,2 @@
+this is ameya local repo
+add some data through local repo
